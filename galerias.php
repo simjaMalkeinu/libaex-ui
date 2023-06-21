@@ -22,25 +22,27 @@
                 Celebremos las diferencias
             </h1>
             <h3 class="galeras-text TextMediumNormal">
-                Masculinidad hay mas de una, la expresión libera tu ser
+                Descubre algunos bailarines
             </h3>
         </div>
 
         <div class="row-gallery">
             <div class="column-g">
-                <img src="public/playground_assets/placeholderimage2803-j5qd-500w.png" alt="PlaceholderImage2803"
+                <img src="public/gallery/carlos.png" alt="PlaceholderImage2803"
                     srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(0,0)">
-                <img src="public/playground_assets/placeholderimage2803-h8ce-500w.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(0,1)">
+                <img src="public/gallery/ela.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(0,1)">
+                <img src="public/gallery/tonatiuh.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(2,1)">
             </div>
             <div class="column-g">
-                <img src="public/playground_assets/placeholderimage2803-a48-300h.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(1,0)">
-                <img src="public/playground_assets/placeholderimage2803-6gmd-500h.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(1,1)">
-                <img src="public/playground_assets/placeholderimage2803-5ge6-500w.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(1,2)">
+                <img src="public/gallery/tbs.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(0,2)">
+                <img src="public/gallery/ela2.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(1,0)">
+                <img src="public/gallery/ivan.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(1,2)">
             </div>
             <div class="column-g">
-
-                <img src="public/playground_assets/placeholderimage2803-5kth-500w.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(2,0)">
-                <img src="public/playground_assets/placeholderimage2803-137-500h.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(2,1)">
+                
+                <img src="public/gallery/menonpointe.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(2,2)">
+                <img src="public/gallery/malesonpointe.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(2,0)">
+                <img src="public/gallery/issac.png" alt="" srcset="" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick="clickImage(1,1)">
             </div>
 
         </div>
@@ -56,7 +58,7 @@
                         <img src="" alt="" srcset="" id="modalImage" width="100%">
                     </div>
                     <div class="modal-footer">
-                        <p id="description"></p>
+                        <a href="" id="description"></a>
                     </div>
                 </div>
             </div>

@@ -1,29 +1,31 @@
 const imgs = [
   [
-    "public/playground_assets/placeholderimage2803-j5qd-500w.png",
-    "public/playground_assets/placeholderimage2803-h8ce-500w.png",
+    "public/gallery/carlos.png",
+    "public/gallery/ela.png",
+    "public/gallery/tbs.png",
   ],
   [
-    "public/playground_assets/placeholderimage2803-a48-300h.png",
-    "public/playground_assets/placeholderimage2803-6gmd-500h.png",
-    "public/playground_assets/placeholderimage2803-5ge6-500w.png",
+    "public/gallery/ela2.png",
+    "public/gallery/issac.png",
+    "public/gallery/ivan.png",
   ],
   [
-    "public/playground_assets/placeholderimage2803-5kth-500w.png",
-    "public/playground_assets/placeholderimage2803-137-500h.png",
+    "public/gallery/malesonpointe.png",
+    "public/gallery/tonatiuh.png",
+    "public/gallery/menonpointe.png",
   ],
 ];
 
 const titles = [
-  [1, 2],
-  [3, 4, 5],
-  [6, 7],
+  ["carlosquezadaofficial", "rossi.elaagrest", "cpyballet"],
+  ["rossi.elaagrest", "chapulo7", "ivan_felix"],
+  ["malesonpointe", "tonatiuhgomezoficial", "jamesbwhiteside"],
 ];
 
 const descriptions = [
-  [1, 2],
-  [3, 4, 5],
-  [6, 7],
+  ["https://www.instagram.com/carlosquezadaofficial/", "https://www.instagram.com/rossi.elaagrest/", "https://www.instagram.com/cpyballet/"],
+  ["https://www.instagram.com/rossi.elaagrest/", "https://www.instagram.com/chapulo7/", "https://www.instagram.com/ivan_felix/"],
+  ["https://www.instagram.com/malesonpointe/", "https://www.instagram.com/tonatiuhgomezoficial/", "https://www.instagram.com/jamesbwhiteside/"],
 ];
 
 console.log(imgs);
@@ -35,7 +37,7 @@ const desc = document.getElementById("description");
 const clickImage = (column, id) => {
   console.log(imgs[column][id]);
   img.src = imgs[column][id];
-  title.innerHTML = 'Titulo de la obra: ' + titles[column][id];
-  desc.innerHTML = 'Descripcion: ' + descriptions[column][id]
+  title.innerHTML = "Artista: " + titles[column][id];
+  desc.innerHTML = "Instagram";
+  desc.setAttribute("href", descriptions[column][id]);
 };
-

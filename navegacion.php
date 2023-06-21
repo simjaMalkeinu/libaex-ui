@@ -12,7 +12,7 @@
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li class="nav-item">
                     <a href="/" class="inicio-menu-item">
-                        <img alt="LaurelWreath2834" src="public/playground_assets/laurelwreath2834-xsa7-200h.png"
+                        <img alt="LaurelWreath2834" src="public/icons/inicio.png"
                             class="inicio-menu-item-icon" />
                         <div class="inicio-menu-item-text">
                             <p>Inicio</p>
@@ -22,32 +22,32 @@
                 </li>
                 <li class="nav-item">
                     <a href="./infografias.php" class="inicio-menu-item">
-                        <img alt="Sankey2834" src="public/playground_assets/sankey2834-ipfa-200h.png"
+                        <img alt="Sankey2834" src="public/icons/info.png"
                             class="inicio-menu-item-icon" />
                         <div class="inicio-menu-item-text">
                             <p>Infografías</p>
-                            <p>Antecedentes para entender</p>
+                            <p>Antecedentes</p>
                         </div>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="./entrevistas.php" class="inicio-menu-item">
-                        <img alt="VideoCall2834" src="public/playground_assets/videocall2834-uji-200h.png"
+                        <img alt="VideoCall2834" src="public/icons/Entrevista.png"
                             class="inicio-menu-item-icon" />
                         <div class="inicio-menu-item-text">
                             <p>Entrevistas</p>
-                            <p>Experiencias de Bailarines en México</p>
+                            <p>Bailarines mexicanos</p>
                         </div>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a href="./galerias.php" class="inicio-menu-item">
-                        <img alt="AddSong2834" src="public/playground_assets/addsong2834-no7l-200h.png"
+                        <img alt="AddSong2834" src="public/icons/Galeria.png"
                             class="inicio-menu-item-icon" />
                         <div class="inicio-menu-item-text">
                             <p>Galería</p>
-                            <p>Expresión del Cuerpo</p>
+                            <p>Expresión</p>
                         </div>
                     </a>
                 </li>

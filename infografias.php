@@ -65,7 +65,7 @@
                     class="infografas-inicio" />
             </a>
             <a href="#ballet">
-                <img alt="inicio2908" src="public/playground_assets/inicio2908-2z08-500w.png"
+                <img alt="inicio2908" src="public/playground_assets/puntas.png"
                     class="infografas-inicio" />
             </a>
         </div>
@@ -85,7 +85,10 @@
             allowfullscreen></iframe>
 
         <br><br>
-        <img id="ballet" src="public/playground_assets/inicio2908-2z08-500w.png" alt="" width="100%" height="900">
+
+        <iframe id="ballet" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="900"
+            src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXOV647bN5UccgruEpj0M97%2FHISTORIA-PUNTAS%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D1-2%26viewport%3D527%252C152%252C0.16%26scaling%3Dscale-down%26starting-point-node-id%3D1%253A2"
+            allowfullscreen></iframe>
     </div>
 
 

@@ -36,50 +36,65 @@
                 <h2 class="inicio-text-second-title HeadingH2">
                     Acerca del Proyecto
                 </h2>
-                <p class="texto-cuerpo TextMediumNormal">
-                    La danza ha marcado una forma de expresión desde los inicios de la
-                    historia humana, siendo plasmada en las pinturas rupestres de más
-                    de 10, 000 años, pasando por los jeroglíficos egipcios, las
-                    historias de los mitos griegos. La evolución de los paradigmas en
-                    el ballet es un tema de gran importancia en el mundo de la danza.
-                    Desde sus inicios en el Renacimiento, el ballet ha evolucionado de
-                    manera constante, incorporando nuevas técnicas y estilos que
-                    reflejan los cambios en la sociedad y la cultura.
+                <!-- texto-cuerpo TextMediumNormal -->
+
+                <p class="texto-cuerpo TextMediumNormal">Cómo empezó el ballet y en qué se convirtió ha sido parte a la
+                    gran interacción que tuvo con los conflictos políticas e intelectuales de los últimos trescientos
+                    años. El ballet fue moldeado por cada una de las épocas, y se adaptó
+                    a creencias como el Renacimiento y el Clasicismo francés, por el Expresionismo, y por el
+                    Bolchevismo, el Modernismo y la Guerra Fría. </p>
+
+                <br>
+                <p class="texto-cuerpo TextMediumNormal">El ballet nació de esta explosión de expresión artística.</p>
+                <br>
+
+                <img src="./public/icons/objetivo.png" alt="objetivo" srcset="" class="icon">
+
+                <p class="texto-cuerpo TextMediumNormal">Este proyecto tiene como objetivo presentar, informar y
+                    visibilizar la violencia y discriminación que experimentan los jóvenes que practican ballet debido a
+                    estereotipos ligados a los roles de género
+                    que van desde sus inicios, y tambíen se busca proveer información sobre los nuevos proyectos dentro
+                    de la danza clásica que luchan contra estos estereotipos y paradigmas.</p>
+
+
+                <img src="./public/icons/propo.png" alt="proposito" srcset="" class="icon">
+
+
+                <p class="texto-cuerpo TextMediumNormal">El propósito principal consiste en emplear herramientas
+                    digitales y plataformas de redes con el fin de reducir los estereotipos de género asociados al la
+                    danza clásica. Mediante la comunicación
+                    visual, se pretende fomentar conciencia y promover la expresión artística de los jóvenes, que por
+                    estigmas y prejuicios de género u orientación sexual no se atreven a adentrarse a la danza clásica.
                 </p>
-                <br />
-                <p class="texto-cuerpo TextMediumNormal">
-                    En este protocolo de investigación, nos proponemos explorar cómo
-                    han cambiado los paradigmas del ballet a lo largo de la historia,
-                    analizando su evolución desde el Renacimiento hasta la actualidad
-                    y como ha influenciado en la concepción y rol del hombre en este,
-                    y lo que ha hecho que la sociedad rechace su participación y cree
-                    un estereotipo de generó y orientación sexual sobre los que
-                    hombres que se dedican a la danza clásica.
-                </p>
-                <br />
-                <p class="texto-cuerpo TextMediumNormal">
-                    Para llevar a cabo nuestro estudio, utilizaremos fuentes
-                    secundarias como libros de historia de la danza y artículos
-                    científicos publicados en revistas especializadas. También
-                    entrevistaremos a expertos en el campo del ballet, como
-                    coreógrafos, bailarines y profesores, para obtener una perspectiva
-                    más completa de la evolución de los paradigmas en esta disciplina.
-                </p>
-                <br />
-                <p class="texto-cuerpo TextMediumNormal">
-                    Nuestro objetivo es proporcionar una visión general de cómo han
-                    cambiado los paradigmas del ballet a lo largo de la historia, y
-                    cómo han influido en el desarrollo de esta disciplina. Además,
-                    esperamos identificar las tendencias y desafíos actuales en el
-                    mundo del ballet, y cómo estos pueden afectar su evolución en el
-                    futuro.
-                </p>
+
+                <p class="texto-cuerpo TextMediumNormal">Esta propuesta gráfica se dirige a hombres de entre 15 y 21
+                    años que practican o tienen el deseo de ingresar a la disciplina de danza clásica. Se reconoce que
+                    estos jóvenes enfrentan barreras y
+                    estereotipos en su camino hacia el desarrollo artístico debido a su contexto social y la falta de
+                    información sobre estos programas artísticos.</p>
+
+                <img src="./public/icons/Esperamos.png" alt="Esperamos" srcset="" class="icon">
+
+                <p class="texto-cuerpo TextMediumNormal">No obstante, cabe destacar que el proyecto no se limita
+                    exclusivamente a este público objetivo. Pretendiendo llegar a todas las personas interesadas en el
+                    mundo del la danza y el arte, sin
+                    importar género u orientación, debido a que la danza clásica es un arte universal que debe ser
+                    apreciado y disfrutado por todos, sin discriminación ni estereotipos.</p>
+
+                <img src="./public/icons/Ballet.png" alt="objetivo" srcset="" class="icon">
+
+
+                <p class="texto-cuerpo TextMediumNormal">Se espera que este proyecto pueda contribuir al cambio cultural
+                    necesario para que la danza clásica se convierta en un espacio verdaderamente inclusivo y diverso.
+                    Con "Assemblé: Deconstruyendo
+                    paradigmas", se busca inspirar a jóvenes bailarines y fomentar un diálogo constructivo sobre los
+                    desafíos y oportunidades existentes en el campo de la danza clásica.</p>
             </div>
             <div>
 
-                <iframe width="100%" height="350" src="./videos/logointro.mp4">
-                </iframe>
-                <img alt="PlaceholderImage2802" src="public/playground_assets/placeholderimage2802-jnri-900h.png"
+                <img width="100%" height="350" src="public/playground_assets/logo.gif">
+                </img>
+                <img alt="PlaceholderImage2802" src="public/playground_assets/image1ballet.png"
                     class="inicio-placeholder-image" />
             </div>
         </div>

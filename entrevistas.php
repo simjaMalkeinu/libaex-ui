@@ -32,8 +32,10 @@
                         class="entrevistas-placeholder-image" />
                     <img alt="PlaceholderImage2803" src="public/playground_assets/placeholderimage2803-fdqd-600h.png"
                         class="entrevistas-placeholder-image" /> -->
-                        <iframe src="./videos/Entrevista-Ivan.mp4" width="100%" height="320" frameborder="0"></iframe>
-                        <!-- <iframe src="https://drive.google.com/file/d/1tJh20eWP6NYA6wdimyhmfhKzmJwjyoP2/preview" width="100%" height="480" allow="autoplay"></iframe> -->
+                    <!-- <iframe src="./videos/Entrevista-Ivan.mp4" width="100%" height="320" frameborder="0"></iframe> -->
+                    <iframe src="https://drive.google.com/file/d/1tJh20eWP6NYA6wdimyhmfhKzmJwjyoP2/preview" width="100%"
+                        height="320" allow="autoplay"></iframe>
+                    <!-- <iframe src="https://drive.google.com/file/d/1tJh20eWP6NYA6wdimyhmfhKzmJwjyoP2/preview" width="100%" height="480" allow="autoplay"></iframe> -->
                 </div>
 
                 <div>
@@ -74,60 +76,43 @@
                 Entrevista
             </h3>
             <h1 class="HeadingH2">
-                Isaac Hernández
+                Tonatiuh Goméz
             </h1>
             <p class="TextMediumNormal">
-                Despertares Impulsa: Un sueño más para México
+                Fundacion: Tonatiuh Goméz
             </p>
 
             <div class="entrevistas-content">
                 <div>
                     <span class="entrevistas-text HeadingH6 left">
-                        <span>Biografía</span>
+                        <span>Entrevista</span>
                     </span>
                     <div class="cuerpo">
-                        <p>
-                            Nació el 30 de abril de 1990 en Guadalajara, México,
-                            hijo de dos bailarines de ballet clásico. A pesar de
-                            vivir en un país donde el ballet es una disciplina que
-                            la sociedad desconoce sus padres decidieron educar a
-                            sus 11 hijos en el arte como un estilo de vida.
+                        <p>La importancia del arte como una expresión básica y fundamental para todos los seres humanos.
+                            La unión de fuerzas entre diferentes proyectos para ayudar a personas talentosas de todas
+                            las edades y brindarles apoyo para cumplir sus sueños.</p>
+
+                        <br>
+                        <p>El sueño de Tonatiuh Gómez de crear un santuario para artistas donde puedan acercarse sin
+                            burocracias y sin barreras, y recibir apoyo para hacer realidad sus sueños.
                         </p>
-                        <br />
-                        <p>
-                            Desde los ocho años demostró su interés por esta
-                            disciplina. Ahí, en el patio de su casa, ha tan corta
-                            edad le han sido ofrecidas múltiples becas por
-                            afamadas escuelas como el Instituto Superior de Arte
-                            de Bourdeaux, Francia; la Escuela Nacional de Cuba,
-                            Habana; y otras para continuar sus estudios por las
-                            mejores escuelas de ballet del mundo.
+                        <br>
+                        <p>“La iniciativa de la fundación nace desde que yo era chiquito creo que es un es un sueño que
+                            siempre he tenido y de poder ayudar y plasmar mis ideas crear especialmente para los
+                            artistas un santuario en el que pudieran acercarse directamente sin burocracias y sin
+                            élites”</p>
+
+                        <br>
+                        <p>El objetivo de la fundación de revolucionar y transformar el mundo de las artes y la cultura,
+                            aportando a diferentes sectores sociales.
                         </p>
-                        <br />
-                        <p>
-                            A la edad de 11 años tuvo que dejar a su familia
-                            aprovechando la beca en el The Rock School for Dance
-                            Education.
-                        </p>
-                        <br />
-                        <p>
-                            Su historia, como la de todos los triunfadores, tiene
-                            tres ingredientes básicos: sueños, esfuerzo y
-                            disciplina. Con ellos, ha construido una realidad que
-                            no sólo le ha brindado reconocimiento y satisfacciones
-                            personales, sino que con ella ha llevado el nombre de
-                            México a todos los continentes y a los escenarios más
-                            reconocidos del mundo.
-                        </p>
-                        <br />
-                        <p>
-                            Hoy es el bailarín principal del Ballet Nacional de
-                            Inglaterra y ha sido dirigido por el mítico Mikhail
-                            Baryshnikov.
-                        </p>
+                        <br>
+                        <p>El llamado a sumarse a la fundación, ya sea como artista que necesita ayuda o cómo alguien
+                            dispuesto a brindar apoyo, y el deseo de dejar huella en muchas personas y cambiar vidas a
+                            través del amor y la inspiración.</p>
                     </div>
                 </div>
-                <img alt="PlaceholderImage2802" src="public/playground_assets/placeholderimage2802-jhvi-600h.png"
+                <img alt="PlaceholderImage2802" src="public/playground_assets/entrevista2.png"
                     class="entrevistas-placeholder-image" />
             </div>
         </div>

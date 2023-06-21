@@ -50,6 +50,10 @@
   gap: 1em;
 }
 
+.infografas-index img{
+  max-height: 350px;
+}
+
 .infografas-inicio {
   width: 100%;
   border-radius: 40px;
