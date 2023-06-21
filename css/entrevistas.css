@@ -1,0 +1,88 @@
+.entrevistas-contact-left {
+  width: 100%;
+  padding: 64px;
+  background-color: var(--dl-color-default-white);
+}
+
+.entrevistas-content {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  margin-top: 1em;
+  gap: 2em;
+}
+
+.entrevistas-placeholder-image {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.entrevistas-text {
+  color: var(--dl-color-default-black);
+  height: auto;
+  line-height: 139.9999976158142%;
+  padding-bottom: 0.3em;
+  font-weight: bold;
+  border-bottom: solid 2px red;
+  width: 100%;
+  text-align: left;
+}
+
+.right {
+  display: flex;
+  justify-content: right;
+}
+
+.left {
+  display: flex;
+  justify-content: left;
+}
+
+.cuerpo {
+  width: 100%;
+  margin-top: 1em;
+  text-align: justify;
+}
+
+
+.entrevistas-contact-right {
+  width: 100%;
+  padding: 64px;
+  background-color: var(--dl-color-default-white);
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: flex-end;
+}
+
+.imagenes {
+  display: grid;
+}
+
+.entrevistas-placeholder-image {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.entrevistas-section-title {
+  width: 768px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 80px;
+  flex-direction: column;
+}
+.entrevistas-text {
+  color: var(--dl-color-default-black);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: 150%;
+  margin-right: 0;
+  margin-bottom: 16px;
+}
+
+
